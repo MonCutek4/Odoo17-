@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "odoo17",
+            "type" : "python",
+            "python": "C:\\Odoo17\\python\\python.exe",
+            "request": "launch",
+            "program": "C:\\Odoo17\\server\\odoo-bin",
+            "console": "integratedTerminal",
+            "args": ["--c=C:\\Odoo17\\server\\odoo.conf"]
+        }
+    ]
+}
